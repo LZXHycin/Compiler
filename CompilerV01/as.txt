@@ -1,0 +1,11 @@
+begin
+a:=10;
+x:=12;
+a:=(a-b;
+if a 10
+then if
+a>10 then
+while x<>10
+a:=10
+end
+#
